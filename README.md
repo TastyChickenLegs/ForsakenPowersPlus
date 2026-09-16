@@ -1,3 +1,5 @@
+### This mod no longer works and has been replaced by Passive Powers Remastered.  
+
 # Forsaken Powers Plus
 
 <b>by TastyChickenLegs</b>
